@@ -1,3 +1,3 @@
 # chellenge1_dev_hybrie
 
-To start the server  you can run :  npm start in server-api In directory
+In the server-api  directory, you can run : npm start  to start the server
